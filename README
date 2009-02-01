@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2533
+
+This script adds an omnicompletion function that gets completion entries from a mutt aliases file. I tested only on GNU/Linux with vim 7.2, but it should work on other systems.
+
+Please send comments, suggestions and patches to "dotfiles at kb dot ccchl dot de".
